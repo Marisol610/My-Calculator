@@ -1,0 +1,76 @@
+*{
+    margin:0;
+    padding:0;
+}
+    
+.img{
+    position: relative;
+    display: block;
+    background-image:url(..//CR/img.css/calcpenbg.jpeg);
+    background-position: center, center;
+    background-size: cover;
+    width: 100%;
+    height:22rem;
+    border-bottom: 4px solid rgb(121, 4, 121);
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 5px;
+
+}
+h1{
+    display: block;
+    background-color: rgb(33, 3, 82);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    text-align: center;
+    padding-top: 20px;
+    color: rgb(0, 247, 255);
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 1px;
+    padding-left: 10px;
+    padding-top: 40px;
+    color: rgb(33, 3, 82)
+}
+.list{
+    display: block;
+    width:450px;
+    text-align: left;
+    border: 4px dotted rgb(109, 5, 109);
+    color: darkblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    padding-left: 10px;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: 44rem;
+    
+
+}
+footer{
+    width: 100%;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    padding:10px;
+}
+.math{
+    display: block;
+    color: darkblue;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 2rem;
+    background-color: silver;
+    border: 4px solid pink;
+}
+
